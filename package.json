@@ -1,0 +1,22 @@
+{
+
+  "name": "bottg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "кнопки.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+ 
+  "devDependencies": {},
+  "scripts": {
+    "start": "node кнопки.js"
+  },
+   "engines": {
+    "node": "8.11.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
